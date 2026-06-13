@@ -1,4 +1,4 @@
-test_dict={"Codingal":2,"is":2,"best":2,"for":2,"coding":1}
+test_dict={"Codingal":3,"is":2,"best":2,"for":2,"coding":1}
 
 print("The original dictionary:"+str(test_dict))
 
